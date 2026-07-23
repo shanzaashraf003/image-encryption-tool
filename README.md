@@ -8,7 +8,7 @@ A modern desktop application built with **Python**, **CustomTkinter**, and **Pil
 
 | Original Image | Encrypted Image |
 |:---------------:|:---------------:|
-| ![Original Image](assets/flower_original.png) | ![Encrypted Image](assets/flower_encrypted.png) |
+| ![Original Image](assets/flower_decrypted.png) | ![Encrypted Image](assets/flower_encrypted.png) |
 
 > The encrypted image appears as random static noise, making the original content completely unreadable without the correct encryption key.
 
@@ -32,9 +32,6 @@ A modern desktop application built with **Python**, **CustomTkinter**, and **Pil
     - Progress tracking
     - Simple encryption/decryption workflow
 
-- **📂 Smart File Management**
-  - Automatically tracks newly generated encrypted and decrypted images for convenient testing and workflow continuity.
-
 ---
 
 # 🛠️ Technologies Used
@@ -43,7 +40,6 @@ A modern desktop application built with **Python**, **CustomTkinter**, and **Pil
 - CustomTkinter
 - Pillow (PIL)
 - hashlib (SHA-256)
-- NumPy (if applicable)
 
 ---
 
