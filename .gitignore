@@ -19,4 +19,4 @@ output/*
 
 # Operating System Files
 .DS_Store
-Thumbs.db
+Thumbs.dbpython src/main.py
